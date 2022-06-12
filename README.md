@@ -4,7 +4,7 @@
 
 <br>
 
-I am a frontend developer from South Korea . 
+I am a front-end developer from South Korea . 
 
 <br>
 
